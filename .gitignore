@@ -1,0 +1,17 @@
+# Maven build outputs
+**/target/
+target/
+
+# IDE files
+**/.settings/
+**/.project
+**/.classpath
+**/.factorypath
+**/.vscode/
+**/.metadata/
+*.log
+
+# Uploaded documents / binary uploads
+backend/contract-management/uploads/*
+!backend/contract-management/uploads/.gitkeep
+
